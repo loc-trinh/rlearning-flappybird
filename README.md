@@ -1,2 +1,2 @@
-#FlappyBird Reinforcement Learning
-##Requirement: 1.9.2
+##FlappyBird Reinforcement Learning
+###Requirement: Pygame 1.9.2
